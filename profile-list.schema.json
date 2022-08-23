@@ -12,7 +12,7 @@
     },
     "listType" : {
       "type:": "string",
-      "enum" : ["verified", "human", "bot", "spam", "squatter", "stolen"]
+      "enum" : ["verified", "human", "bot", "spam", "squatter", "stolen", "admin", "moderator"]
     },
     "profiles": {
       "type": "array",
