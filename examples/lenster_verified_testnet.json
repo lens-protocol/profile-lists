@@ -1,10 +1,10 @@
 {
-  "title": "Lenster Testnet Verified List",
-  "author": "https://github.com/lensterxyz/lenster",
-  "listType": "verified",
-  "profiles" : [
-    "0x15",
-    "0x01",
-    "0x02"
-  ]
+	"title": "Lenster Testnet Verified List",
+	"author": "https://github.com/lensterxyz/lenster",
+	"listType": "verified",
+	"profiles": [
+		"0x15",
+		"0x01",
+		"0x02"
+	]
 }
