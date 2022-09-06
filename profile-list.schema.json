@@ -4,15 +4,24 @@
   "description": "Specification for Creating Lists of Lens Protocol Profiles",
   "type": "object",
   "properties": {
-    "title" : {
+    "name": {
       "type:": "string"
     },
-    "author" : {
+    "author": {
       "type:": "string"
     },
-    "listType" : {
+    "listType": {
       "type:": "string",
-      "enum" : ["verified", "human", "bot", "spam", "squatter", "stolen", "admin", "moderator"]
+      "enum": [
+        "verified",
+        "human",
+        "bot",
+        "spam",
+        "squatter",
+        "stolen",
+        "admin",
+        "moderator"
+      ]
     },
     "profiles": {
       "type": "array",
@@ -22,7 +31,7 @@
     }
   },
   "$defs": {
-    "profileID" : {
+    "profileID": {
       "type": "string",
       "pattern": "^0x([a-fA-F0-9]{2,})$"
     }
