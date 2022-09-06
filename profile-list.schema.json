@@ -13,13 +13,6 @@
     "listType": {
       "type:": "string",
       "enum": [
-        "verified",
-        "human",
-        "bot",
-        "spam",
-        "squatter",
-        "stolen",
-        "admin",
         "moderator"
       ]
     },
