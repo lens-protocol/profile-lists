@@ -1,7 +1,7 @@
 {
   "title": "Lenster Verified List",
   "author": "https://github.com/lensterxyz/lenster",
-  "listType": "verified",
+  "listType": "VERIFIED",
   "profiles" : [
     "0xe06b",
     "0x250e",
