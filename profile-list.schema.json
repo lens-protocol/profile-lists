@@ -13,7 +13,8 @@
     "listType": {
       "type:": "string",
       "enum": [
-        "MODERATOR"
+        "MODERATOR",
+        "VERIFIED"
       ]
     },
     "profiles": {
