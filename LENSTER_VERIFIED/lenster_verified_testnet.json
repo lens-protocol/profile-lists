@@ -1,7 +1,7 @@
 {
 	"title": "Lenster Testnet Verified List",
 	"author": "https://github.com/lensterxyz/lenster",
-	"listType": "verified",
+	"listType": "VERIFIED",
 	"profiles": [
 		"0x15",
 		"0x01",
