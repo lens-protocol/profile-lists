@@ -1,16 +1,16 @@
 {
-	"name": "GARDNERS",
-	"author": "0xd1feccf6881970105dfb2b654054174007f0e07e",
-	"listType": "moderator",
-	"profiles": [
-		"0x16",
-		"0x01",
-		"0x02",
-    		"0x05",
-    		"0x06",
-    		"0x0210",
-    		"0x0d",
-    		"0x24",
-    		"0x8e"
-	]
+  "name": "GARDNERS",
+  "author": "0xd1feccf6881970105dfb2b654054174007f0e07e",
+  "listType": "moderator",
+  "profiles": [
+    "0x16",
+    "0x01",
+    "0x02",
+    "0x05",
+    "0x06",
+    "0x0210",
+    "0x0d",
+    "0x24",
+    "0x8e"
+  ]
 }
